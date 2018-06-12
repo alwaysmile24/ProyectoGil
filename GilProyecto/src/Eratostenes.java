@@ -1,5 +1,4 @@
 /**
-@author 
 @version 2018-2
 Esta es la clase Criba de Eratostenes 
 */
