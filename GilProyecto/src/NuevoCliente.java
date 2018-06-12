@@ -1,7 +1,15 @@
+/**
+ @author Ignacio, Cesar, Vanessa
+ @version 2018-2
+ */
 import java.io.*;
 import java.util.Scanner;
-
+	
 public class NuevoCliente{
+	/**
+	Este metodo es el principal, se ingresan los datos para crear un nuevo cliente
+	@param args Este parametro es un arreglo de cadenas 
+	*/
 	public static void main(String[] args) {
 		Scanner teclado=new Scanner(System.in);
 
